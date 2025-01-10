@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0C6980</color>
+    <color name="colorPrimaryDark">#0C6980</color>
+<!--    <color name="colorPrimary">#045d63</color>-->
+<!--    <color name="colorPrimaryDark">#044a4c</color>-->
+<!--    <color name="colorAccent">#04988E</color>-->
+    <color name="colorAccent">#0097A7</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="color_background">#000000</color>
+    <color name="color_desire_front">#96979b</color>
+    <color name="color_desire_font">#96979b</color>
+
+
+<!--    <color name="backgroundBottomColor">#045d63</color>-->
+    <color name="backgroundBottomColor">#0C6980</color>
+    <color name="circleColor">#0C6980</color>
+    <color name="countBackgroundColo">#F45E0B</color>
+    <color name="countTextColor">#fff</color>
+    <color name="defaultIconColor">#F6F6F6</color>
+<!--    <color name="selectedIconColor">#fff</color>-->
+    <color name="selectedIconColor">#FFFFFF</color>
+    <color name="shadowColor">#2E2E2E</color>
+
+    <!--for night/dark mode -->
+    <color name="cardcolor">#d3d3d3</color>
+    <color name="backgroundcolor">#FFFFFF</color>
+    <color name="textColor">#ffffff</color>
+    <color name="textColor2">#0C6980</color>
+    <color name="textColor4">#000f10</color>
+    <color name="textColor3">#000000</color>
+</resources>

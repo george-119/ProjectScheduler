@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory app:title="Notifications">
+    <SwitchPreference
+        app:key="notifications"
+        app:title="Enable message notifications"/>
+    </PreferenceCategory>
+    <PreferenceCategory app:title="Theme">
+    <SwitchPreference
+        app:key="darkmode"
+        app:title="Dark Mode"/>
+    </PreferenceCategory>
+    <PreferenceCategory app:title="@string/messages_header">
+
+        <EditTextPreference
+            app:key="signature"
+            app:title="@string/signature_title"
+            app:useSimpleSummaryProvider="true" />
+
+        <ListPreference
+            app:defaultValue="reply"
+            app:entries="@array/reply_entries"
+            app:entryValues="@array/reply_values"
+            app:key="reply"
+            app:title="@string/reply_title"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/sync_header">
+
+        <SwitchPreferenceCompat
+            app:key="sync"
+            app:title="@string/sync_title" />
+
+        <SwitchPreferenceCompat
+            app:dependency="sync"
+            app:key="attachment"
+            app:summaryOff="@string/attachment_summary_off"
+            app:summaryOn="@string/attachment_summary_on"
+            app:title="@string/attachment_title" />
+
+    </PreferenceCategory>
+    <PreferenceCategory app:title="Feedback">
+    <Preference
+        android:key="feedback"
+        android:title="Send Feedback"
+        android:summary="@string/feedback"/>
+    </PreferenceCategory>
+    <PreferenceCategory app:title="Application">
+        <Preference
+        android:key="about"
+        android:title="About"/>
+    </PreferenceCategory>
+</PreferenceScreen>

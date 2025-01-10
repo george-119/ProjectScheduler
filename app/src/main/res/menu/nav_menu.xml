@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/nav_members"
+            android:icon="@drawable/ic_baseline_members"
+            android:title="Members" /></group>
+    <group>
+    <item
+        android:id="@+id/nav_help"
+        android:icon="@drawable/ic_baseline_help"
+        android:title="Help" /></group>
+
+<!--    <group>-->
+<!--        <item-->
+<!--            android:id="@+id/nav_viewfile"-->
+<!--            android:icon="@drawable/ic_baseline_file"-->
+<!--            android:title="View File" /></group>-->
+
+<!--    <group>-->
+<!--    <item-->
+<!--        android:id="@+id/nav_progress"-->
+<!--        android:icon="@drawable/ic_baseline_progressup"-->
+<!--        android:title="Update Progress" /></group>-->
+
+
+</menu>
