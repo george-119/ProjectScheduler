@@ -1,8 +1,6 @@
-Introduction:
-The Project Scheduler is an Android application designed to streamline the project scheduling process for college students. It serves as a mobile extension of a web-based platform, ensuring seamless access to key project-related information. This application bridges the gap between students and the scheduling process by providing an intuitive and user-friendly interface to monitor project progress, manage approvals, and access essential resources anytime, anywhere.
+  The Project Scheduler is an Android application designed to streamline the project scheduling process for college students. It serves as a mobile extension of a web-based platform, ensuring seamless access to key project-related information. This application bridges the gap between students and the scheduling process by providing an intuitive and user-friendly interface to monitor project progress, manage approvals, and access essential resources anytime, anywhere.
 
-Objective:
-The primary goal of the Project Scheduler is to enhance the user experience of college students by offering a portable and efficient way to interact with the project scheduling system. The application is tailored to keep students updated about their project status, attendance, guide approvals, and facilitate the downloading of necessary documents, all from their Android devices.
+  The primary goal of the Project Scheduler is to enhance the user experience of college students by offering a portable and efficient way to interact with the project scheduling system. The application is tailored to keep students updated about their project status, attendance, guide approvals, and facilitate the downloading of necessary documents, all from their Android devices.
 
 Key Features:
 
